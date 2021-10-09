@@ -1,12 +1,14 @@
- ![SoftMakers](https://www.softmakers.com.br/assets/img/logotipo14xxhdpi.png)
+ <p align="center">
+  <img width="200px" src="./.github/logo.png" />
+ </p>
 
-# Desafio - Desenvolvedor Fullstack Júnior
+# PetLover
 ![Badge](https://img.shields.io/badge/database-sqlite3-yellow) ![Badge](https://img.shields.io/badge/next-v11.1.2-blue) ![Badge](https://img.shields.io/badge/axios-v0.21.4-green) ![Badge](https://img.shields.io/badge/typeorm-v0.2.37-brightgreen) ![Badge](https://img.shields.io/badge/express-v4.17%2C1-orange)
 
 
 
 &nbsp;
-- [Desafio - Desenvolvedor Fullstack Júnior](#desafio---desenvolvedor-fullstack-júnior)
+- [PetLover](#petlover)
   - [⭐ Features](#-features)
     - [Frontend](#frontend)
     - [Backend](#backend)
@@ -49,10 +51,10 @@
 ```bash
 
 # Clone a aplicação
-$ git clone https://github.com/julio-lemos/desafio-desenvolvedor-junior.git
+$ git clone https://github.com/julio-lemos/petlover.git
 
 # Instale as dependências do frontend
-$ cd desafio-desenvolvedor-junior
+$ cd petlover
 $ cd frontend
 $ yarn
 
